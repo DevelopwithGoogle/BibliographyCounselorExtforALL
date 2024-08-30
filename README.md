@@ -12,8 +12,7 @@ Citation Recommendation is to provide bibliographic citation that a user is inte
   
 ## Quick Start
   - Select a Text from the oveleaf project.
-  <!-- - Either Right Click on it or use Keyboard Shortcut <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> and <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd> in chromium based and gecko based browsers respectively.-->
-  - Right Click on it.
+  - Right Click on it OR Keyboard Shortcut: Chromium: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Y</kbd>  and Gecko: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd>
   - Either choose how to crawl or go default.
   - Select the citations and create a `*.bib` file unless already exists and hit Copy.
 
