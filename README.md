@@ -5,7 +5,7 @@ _A Bibliographic Citation Recommendation System integrated with [Overleaf](https
 
 [![Build - Passing](https://img.shields.io/badge/Build-Passing-2ea44f)](https://github.com/DDuttaGit/Bibliography-Counselor/README.md) [![Extension - Chomium](https://img.shields.io/static/v1?label=Extension&message=Chomium&color=fa119f&logo=Google+Chrome)](https://) [![Extension - Gecko](https://img.shields.io/badge/Extension-Gecko-aeb44f?logo=Firefox)](https://addons.mozilla.org/en-US/firefox/addon/bibliography-counselor/)
 
-Based the [work](https://www.computer.org/csdl/proceedings-article/jcdl/2023/993100a260/1QWvKmaZUFW) by D Dutta, D Pal, D Roy and M Mitra.
+Based on the [work](https://www.computer.org/csdl/proceedings-article/jcdl/2023/993100a260/1QWvKmaZUFW) by D Dutta, D Pal, D Roy and M Mitra.
 
 ## Service
   This extension crawls all giant digital libraries (_except **Google Scholar**_ part of Premium service) to provide citations.
